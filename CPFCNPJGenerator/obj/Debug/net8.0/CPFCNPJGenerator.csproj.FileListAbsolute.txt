@@ -1,0 +1,14 @@
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\bin\Debug\net8.0\CPFCNPJGenerator.exe
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\bin\Debug\net8.0\CPFCNPJGenerator.deps.json
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\bin\Debug\net8.0\CPFCNPJGenerator.runtimeconfig.json
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\bin\Debug\net8.0\CPFCNPJGenerator.dll
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\bin\Debug\net8.0\CPFCNPJGenerator.pdb
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.AssemblyInfoInputs.cache
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.AssemblyInfo.cs
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.csproj.CoreCompileInputs.cache
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.dll
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\refint\CPFCNPJGenerator.dll
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.pdb
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\CPFCNPJGenerator.genruntimeconfig.cache
+C:\Users\olivd\Desktop\Projects\CPFCNPJGenerator\CPFCNPJGenerator\CPFCNPJGenerator\obj\Debug\net8.0\ref\CPFCNPJGenerator.dll
